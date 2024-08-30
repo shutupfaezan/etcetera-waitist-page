@@ -14,7 +14,7 @@ export default function Mainpage() {
         transform: "translate(-50%, -50%)"}}>
                 <div>
                     <h1 style={{color: "white", fontWeight: "900"}}>WE'RE ON A BREAK!</h1>
-                    <h1  style={{color: "white", fontWeight: "900"}}>Come back later maybe, once the miantenance is done</h1>
+                    <h1  style={{color: "white", fontWeight: "900"}}>Come back later maybe, once the maintenance is done</h1>
                 </div>
                 {/* <img class="image-404" src={process.env.PUBLIC_URL + "/images/BREAK.png"} width="300px"/>
                 <img class="image-404" src={process.env.PUBLIC_URL + "/images/BREAK.png"} width="300px"/> */}
